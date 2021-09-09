@@ -4,6 +4,7 @@
     box-sizing: border-box;
 
 }
+
 body{
     background-color: rgb(73, 62, 62);
 }
@@ -62,7 +63,28 @@ color: #f8f8f8;
     background-color: rgb(68, 62, 62);
 
 }
-p{
-    
-    color: white;
+
+
+img{
+    position: relative;
+    top: 130px;
+
 }
+
+h1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
+p{
+    margin: 42px;
+    text-align: justify;
+    font-size: 24px;
+    color: white;
+    position: relative;
+    top: 130px;
+
+}
+
